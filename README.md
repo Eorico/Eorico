@@ -1,12 +1,15 @@
+<div align="center">
+
 # 👋 Hey there, I’m **Eorico Gonzales**  
 ### 💻 Python Developer | Mobile App Engineer | Web & Backend Developer  
 
-I’m a passionate and goal-driven developer with **3 years of experience** building high-performing apps and systems that bridge user needs with smart technology.  
-My expertise spans **Python**, **mobile app development**, **modern web design**, and **backend engineering**, all driven by a love for solving real-world problems through clean, efficient code.
+🚀 Passionate about building **intelligent, user-centric digital experiences** using Python, modern frameworks, and scalable backend logic.  
+With **3 years of professional experience**, I transform creative ideas into smooth, responsive, and high-performing applications.  
 
 ---
 
-## 🌐 Socials:
+## 🌐 Connect With Me
+
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/Eorico)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/EoricoGonzales)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ico_gonzales/)
@@ -19,23 +22,27 @@ My expertise spans **Python**, **mobile app development**, **modern web design**
 
 ---
 
-## 💼 About Me
+</div>
 
-I specialize in crafting **smart and user-centric digital experiences** — from **intuitive mobile apps** to **responsive websites** and **robust backends**.  
-My work is guided by clarity, innovation, and a deep respect for detail.  
+## 🧠 About Me
 
-🔹 **3+ years of practical development experience**  
-🔹 Focused on **Python-based systems**, **mobile interfaces**, and **scalable backends**  
-🔹 Skilled at transforming ideas into fully deployed digital products  
-🔹 Known for strong debugging, system optimization, and design thinking  
+I specialize in **Python programming**, **mobile app development**, **modern web design**, and **backend engineering**.  
+My mission is to craft software that combines logic, creativity, and reliability.
+
+✨ **3+ Years of Experience** in full-cycle development — from concept to deployment.  
+💡 Driven by innovation, performance, and user-centered design.  
+🧩 Dedicated to clean, efficient, and scalable code.
 
 > “Code is not just written — it’s crafted with logic, precision, and purpose.”
 
 ---
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+<div align="center">
+
+# 💻 Tech Stack
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -53,18 +60,23 @@ My work is guided by clarity, innovation, and a deep respect for detail.
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 
----
-
-## 🧠 Strengths & Focus
-✅ **Python Automation & Logic Development** – Crafting efficient systems & interactive tools  
-✅ **Mobile Development (Flutter / React Native)** – Clean UI and strong performance  
-✅ **Web Engineering (Django / FastAPI / Node.js)** – Building modern, data-driven web apps  
-✅ **Backend & API Design** – RESTful integration and secure data flow management  
-✅ **UI/UX Collaboration** – Translating functionality into delightful user experiences  
+</div>
 
 ---
 
-# 📊 GitHub Stats:
+## ⚙️ What I Do Best
+✅ **Python Automation & Problem Solving** – Clean logic and intuitive workflows  
+✅ **Mobile App Development** – Flutter / React Native for fluid experiences  
+✅ **Web Systems** – Django, FastAPI, Node.js for data-driven solutions  
+✅ **Backend Architecture** – REST APIs, authentication, and data management  
+✅ **UI/UX Collaboration** – Seamless design integration for user impact  
+
+---
+
+<div align="center">
+
+# 📊 GitHub Stats
+
 ![](https://github-readme-stats.vercel.app/api?username=Eorico&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Eorico&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Eorico&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
@@ -76,8 +88,8 @@ My work is guided by clarity, innovation, and a deep respect for detail.
 
 ---
 
-### ✍️ Developer’s Quote
-> “Every line of code you write is a reflection of your logic, creativity, and persistence.”
+### ✍️ Dev Quote
+> “Every line of code is a step toward something extraordinary.”
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
@@ -90,6 +102,6 @@ My work is guided by clarity, innovation, and a deep respect for detail.
 
 [![](https://visitcount.itsvg.in/api?id=Eorico&icon=2&color=0)](https://visitcount.itsvg.in)
 
----
+</div>
 
 <!-- Proudly crafted by Eorico using GPRM ( https://gprm.itsvg.in ) -->
