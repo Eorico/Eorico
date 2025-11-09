@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👋 Hey there, I’m **Eorico Gonzales**  
-### 💻 Python Developer | Mobile App Engineer | Web & Backend Developer  
+### 💻 Software Developer | ML  
 
 🚀 Passionate about building **intelligent, user-centric digital experiences** using Python, modern frameworks, and scalable backend logic.  
 With **3 years of professional experience**, I transform creative ideas into smooth, responsive, and high-performing applications.  
